@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="TxxgxC7orMGpzQ9J_pYy-26" connectable="0" parent="TxxgxC7orMGpzQ9J_pYy-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Webhook 通知&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(AES 加密)&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0104" y="2" as="geometry">
-            <mxPoint x="3" y="2" as="offset" />
+            <mxPoint x="3" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TxxgxC7orMGpzQ9J_pYy-27" edge="1" parent="TxxgxC7orMGpzQ9J_pYy-1" source="TxxgxC7orMGpzQ9J_pYy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="TxxgxC7orMGpzQ9J_pYy-30">
